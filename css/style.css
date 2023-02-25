@@ -1,0 +1,63 @@
+  body {
+    background-color: lightgray;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: auto;
+  }
+
+  .container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+  }
+
+  #main-header {
+    background-color: aquamarine;
+    color: white;
+    text-align: center;
+  }
+
+  #navbar {
+    background-color: darkslategray;
+    color: white;
+    text-align: center;
+  }
+
+  #navbar {
+    padding: 0;
+    list-style: none;
+  }
+
+  #navbar li {
+    display: inline;
+  }
+
+  #navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding-right: 15px;
+  }
+
+  #showcase {
+    background-image: url('../images/UNLV.jpg');
+    background-position: center;
+    min-height: 500px;
+  }
+
+  #showcase {
+    color: white;
+    font-size: 16px;
+    line-height: 1.6em;
+    text-align: center;
+  }
+
+  #main-footer {
+    background-color: darkslategray;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: auto;
+  }
